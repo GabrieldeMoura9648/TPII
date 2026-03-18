@@ -1,93 +1,79 @@
-# 📌 TPII - Técnicas de Programação II
+# 💻 Técnicas de Programação II
 
-## 👨‍🎓 Informações Acadêmicas
+## 👨‍🎓 Informações
 
-* **Disciplina:** Técnicas de Programação II
-* **Professor:** Vinicios Heltai
-* **Aluno:** Gabriel de Moura
-* **Semestre:** 3º Semestre
+- Disciplina: Técnicas de Programação II  
+- Professor: Vinicios Heltai  
+- Aluno: Gabriel de Moura  
 
 ---
 
-## 📖 Descrição do Projeto
+## 📖 Sobre o Projeto
 
-Este repositório contém as atividades, exercícios e implementações desenvolvidas ao longo da disciplina de **Técnicas de Programação II**.
+Este repositório contém exercícios e atividades desenvolvidas na disciplina de Técnicas de Programação II.
 
-O objetivo do projeto é aplicar conceitos fundamentais de programação, com foco em:
-
-* Estruturação de código
-* Organização em módulos
-* Manipulação de dados
-* Desenvolvimento de lógica avançada
-* Construção de aplicações utilizando JavaScript
+O foco está no desenvolvimento da lógica de programação e na aplicação de conceitos como Programação Orientada a Objetos (POO), organização de código e resolução de problemas computacionais.
 
 ---
 
 ## ⚙️ Tecnologias Utilizadas
 
-* JavaScript
-* Node.js
-* HTML / CSS
-* Git & GitHub
+- JavaScript  
+- Node.js  
+- Programação Orientada a Objetos (POO)  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-```bash
 📁 TPII
  ├── 📁 Abstract_Factory
  ├── 📁 Builder_Factory
- ├── 📄 server.js
- ├── 📄 package.json
  └── 📄 README.md
-```
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/GabrieldeMoura9648/TPII.git
-```
 
 2. Acesse a pasta:
 
-```bash
 cd TPII
-```
 
-3. Execute o servidor:
+3. Execute um arquivo:
 
-```bash
-node server.js
-```
+node index.js
 
-4. Acesse no navegador:
+ou
 
-```bash
-http://localhost:3000
-```
+node nome-do-arquivo.js
 
 ---
 
-## 🌐 Rotas do Servidor
+## 📚 Conteúdos Trabalhados
 
-O servidor implementa algumas rotas para estudo de requisições HTTP:
-
-* `/` → Página inicial
-* `/html` → Retorna conteúdo HTML
-* `/json` → Retorna dados em JSON
-* `/jpeg` → Retorna imagem
-* `/pdf` → Retorna arquivo PDF
+- Estruturas de dados  
+- Funções e modularização  
+- Programação Orientada a Objetos  
+- Manipulação de dados  
+- Organização de código  
 
 ---
 
-## 🎯 Objetivos de Aprendizado
+## 🎯 Objetivo
 
-* Compreender o funcionamento de servidores HTTP
-* Trabalhar com diferentes tipos de resposta (HTML, JSON, arquivos)
-* Aplicar boas práticas de organização de código
-* Utilizar controle de versão com Git
+Desenvolver habilidades em:
+
+- Lógica de programação  
+- Resolução de problemas  
+- Escrita de código limpo e organizado  
+- Reutilização de código  
+
+---
+
+## 📌 Observação
+
+Este projeto é acadêmico e representa a prática dos conteúdos estudados na disciplina de Técnicas de Programação II.
