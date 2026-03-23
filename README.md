@@ -10,9 +10,9 @@
 
 ## 📖 Sobre o Projeto
 
-Este repositório contém exercícios e atividades desenvolvidas na disciplina de Técnicas de Programação II.
+Este repositório contém exercícios, atividades e exemplos desenvolvidos na disciplina de Técnicas de Programação II.
 
-O foco está no desenvolvimento da lógica de programação e na aplicação de conceitos como Programação Orientada a Objetos (POO), organização de código e resolução de problemas computacionais.
+O foco está na aplicação de padrões de projeto, desenvolvimento da lógica de programação e utilização de conceitos como Programação Orientada a Objetos (POO), organização de código e boas práticas.
 
 ---
 
@@ -21,15 +21,26 @@ O foco está no desenvolvimento da lógica de programação e na aplicação de 
 - JavaScript  
 - Node.js  
 - Programação Orientada a Objetos (POO)  
+- Padrões de Projeto (Design Patterns)  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-📁 TPII
- ├── 📁 Abstract_Factory
- ├── 📁 Builder_Factory
- └── 📄 README.md
+📁 TPII  
+ ├── 📁 Atividades  
+ │    ├── 📁 Abstract_Factory  
+ │    ├── 📁 Builder_Factory  
+ │    ├── 📁 Criacionais_Prototype  
+ │    ├── 📁 FactoryMethod  
+ │    └── 📁 Projeto  
+ │  
+ ├── 📁 Exemplos  
+ │    ├── 📁 FactoryMethodEX  
+ │    ├── 📁 PrototypeEX  
+ │    └── 📁 SingletonEX  
+ │  
+ └── 📄 README.md  
 
 ---
 
@@ -43,7 +54,15 @@ git clone https://github.com/GabrieldeMoura9648/TPII.git
 
 cd TPII
 
-3. Execute um arquivo:
+3. Navegue até a pasta desejada (Atividades ou Exemplos):
+
+cd Atividades/nome-da-pasta
+
+ou
+
+cd Exemplos/nome-da-pasta
+
+4. Execute o arquivo JavaScript:
 
 node index.js
 
@@ -55,11 +74,16 @@ node nome-do-arquivo.js
 
 ## 📚 Conteúdos Trabalhados
 
-- Estruturas de dados  
-- Funções e modularização  
-- Programação Orientada a Objetos  
-- Manipulação de dados  
+- Programação Orientada a Objetos (POO)  
+- Padrões de Projeto (Criacionais)  
+  - Abstract Factory  
+  - Builder  
+  - Prototype  
+  - Factory Method  
+  - Singleton  
 - Organização de código  
+- Modularização  
+- Boas práticas de desenvolvimento  
 
 ---
 
@@ -67,13 +91,9 @@ node nome-do-arquivo.js
 
 Desenvolver habilidades em:
 
+- Aplicação de padrões de projeto  
 - Lógica de programação  
 - Resolução de problemas  
 - Escrita de código limpo e organizado  
 - Reutilização de código  
 
----
-
-## 📌 Observação
-
-Este projeto é acadêmico e representa a prática dos conteúdos estudados na disciplina de Técnicas de Programação II.
